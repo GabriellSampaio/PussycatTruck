@@ -13,12 +13,12 @@ Este carrinho é capaz de detectar e seguir linhas pretas no chão usando 3 sens
 ---
 
 ## ⚙️ Componentes Utilizados
-- Arduino Uno, Nano ou similar
-- Driver Ponte H (ex: L298N)
+- Arduino Uno
+- Driver Ponte H 
 - 2 motores DC com rodas
 - 3 sensores infravermelhos de reflexão
 - Protoboard e jumpers
-- Fonte de energia (pack de pilhas ou bateria)
+- Fonte de energia 
 
 ---
 
