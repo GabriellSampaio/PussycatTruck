@@ -1,4 +1,4 @@
-# 🚚💖 The Pussycat Truck – O Caminhão da Penélope Charmosa
+# The Pussycat Truck – O Caminhão Gatinho
 
 Projeto de robô seguidor de linha com Arduino, batizado de **The Pussycat Truck** em homenagem ao icônico carro da Penélope Charmosa na Corrida Maluca.  
 Este carrinho é capaz de detectar e seguir linhas pretas no chão usando 3 sensores infravermelhos.
